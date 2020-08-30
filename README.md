@@ -1,2 +1,3 @@
 # PythonProject
-This is my first python project using DJango
+#change no.1
+This is my first python project using DJango framework
