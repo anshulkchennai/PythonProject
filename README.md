@@ -1,3 +1,3 @@
 # PythonProject
-#change no.1
-This is my first python project using DJango framework
+#change no.2
+This is my first python project using DJango framework. pushing from local to github
